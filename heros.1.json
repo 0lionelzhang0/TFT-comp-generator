@@ -1,0 +1,293 @@
+{
+    "Enigma": {
+        "classes": ["Primordial", "Warlock"],
+        "origins": [],
+        "cost": 5
+    },
+    "Gyrocopter": {
+        "classes": ["Deadeye", "Inventor"],
+        "origins": [],
+        "cost": 5
+    },
+    "Lich": {
+        "classes": ["Heartless", "Mage"],
+        "origins": [],
+        "cost": 5
+    },
+    "Techies": {
+        "classes": ["Scrappy", "Inventor"],
+        "origins": [],
+        "cost": 5
+    },
+    "Tidehunter": {
+        "classes": ["Scaled", "Hunter"],
+        "origins": [],
+        "cost": 5
+    },
+    "Alchemist": {
+        "classes": ["Scrappy", "Warlock"],
+        "origins": [],
+        "cost": 4
+    },
+    "Disruptor": {
+        "classes": ["Brawny", "Shaman"],
+        "origins": [],
+        "cost": 4
+    },
+    "Doom": {
+        "classes": ["Demon", "Warrior"],
+        "origins": [],
+        "cost": 4
+    },
+    "Dragon Knight": {
+        "classes": ["Human", "Dragon", "Knight"],
+        "origins": [],
+        "cost": 4
+    },
+    "Keeper of the Light": {
+        "classes": ["Human", "Mage"],
+        "origins": [],
+        "cost": 4
+    },
+    "Kunkka": {
+        "classes": ["Human", "Warrior"],
+        "origins": [],
+        "cost": 4
+    },
+    "Lone Druid": {
+        "classes": ["Savage", "Druid"],
+        "origins": [],
+        "cost": 4
+    },
+    "Mirana": {
+        "classes": ["Elusive", "Hunter"],
+        "origins": [],
+        "cost": 4
+    },
+    "Necrophos": {
+        "classes": ["Heartless", "Warlock"],
+        "origins": [],
+        "cost": 4
+    },
+    "Templar Assassin": {
+        "classes": ["Elusive", "Assassin"],
+        "origins": [],
+        "cost": 4
+    },
+    "Troll Warlord": {
+        "classes": ["Troll", "Warrior"],
+        "origins": [],
+        "cost": 4
+    },
+    "Abaddon": {
+        "classes": ["Heartless", "Knight"],
+        "origins": [],
+        "cost": 3
+    },
+    "Arc Warden": {
+        "classes": ["Primordial", "Shaman"],
+        "origins": [],
+        "cost": 3
+    },
+    "Lina": {
+        "classes": ["Human", "Mage"],
+        "origins": [],
+        "cost": 3
+    },
+    "Lycan": {
+        "classes": ["Human", "Savage", "Warrior"],
+        "origins": [],
+        "cost": 3
+    },
+    "Omniknight": {
+        "classes": ["Human", "Knight"],
+        "origins": [],
+        "cost": 3
+    },
+    "Phantom Assassin": {
+        "classes": ["Elusive", "Assassin"],
+        "origins": [],
+        "cost": 3
+    },
+    "Razor": {
+        "classes": ["Primordial", "Mage"],
+        "origins": [],
+        "cost": 3
+    },
+    "Sand King": {
+        "classes": ["Savage", "Assassin"],
+        "origins": [],
+        "cost": 3
+    },
+    "Shadow Fiend": {
+        "classes": ["Demon", "Warlock"],
+        "origins": [],
+        "cost": 3
+    },
+    "Slark": {
+        "classes": ["Scaled", "Assassin"],
+        "origins": [],
+        "cost": 3
+    },
+    "Terrorblade": {
+        "classes": ["Demon", "Demon Hunter"],
+        "origins": [],
+        "cost": 3
+    },
+    "Venomancer": {
+        "classes": ["Savage", "Warlock"],
+        "origins": [],
+        "cost": 3
+    },
+    "Viper": {
+        "classes": ["Dragon", "Assassin"],
+        "origins": [],
+        "cost": 3
+    },
+    "Wind Ranger": {
+        "classes": ["Elusive", "Hunter"],
+        "origins": [],
+        "cost": 3
+    },
+    "Beastmaster": {
+        "classes": ["Brawny", "Hunter"],
+        "origins": [],
+        "cost": 2
+    },
+    "Chaos Knight": {
+        "classes": ["Demon", "Knight"],
+        "origins": [],
+        "cost": 2
+    },
+    "Crystal Maiden": {
+        "classes": ["Human", "Mage"],
+        "origins": [],
+        "cost": 2
+    },
+    "Juggernaut": {
+        "classes": ["Brawny", "Warrior"],
+        "origins": [],
+        "cost": 2
+    },
+    "Luna": {
+        "classes": ["Elusive", "Knight"],
+        "origins": [],
+        "cost": 2
+    },
+    "Morphling": {
+        "classes": ["Primordial", "Assassin"],
+        "origins": [],
+        "cost": 2
+    },
+    "Nature's Prophet": {
+        "classes": ["Elusive", "Druid"],
+        "origins": [],
+        "cost": 2
+    },
+    "Puck": {
+        "classes": ["Elusive", "Dragon", "Mage"],
+        "origins": [],
+        "cost": 2
+    },
+    "Pudge": {
+        "classes": ["Heartless", "Warrior"],
+        "origins": [],
+        "cost": 2
+    },
+    "Queen of Pain": {
+        "classes": ["Demon", "Assassin"],
+        "origins": [],
+        "cost": 2
+    },
+    "Slardar": {
+        "classes": ["Scaled", "Warrior"],
+        "origins": [],
+        "cost": 2
+    },
+    "Timbersaw": {
+        "classes": ["Scrappy", "Inventor"],
+        "origins": [],
+        "cost": 2
+    },
+    "Treant Protector": {
+        "classes": ["Elusive", "Druid"],
+        "origins": [],
+        "cost": 2
+    },
+    "Witchdoctor": {
+        "classes": ["Troll", "Warlock"],
+        "origins": [],
+        "cost": 2
+    },
+    "Anti-mage": {
+        "classes": ["Elusive", "Demon Hunter"],
+        "origins": [],
+        "cost": 1
+    },
+    "Axe": {
+        "classes": ["Brawny", "Warrior"],
+        "origins": [],
+        "cost": 1
+    },
+    "Batrider": {
+        "classes": ["Troll", "Knight"],
+        "origins": [],
+        "cost": 1
+    },
+    "Bloodseeker": {
+        "classes": ["Human", "Assassin"],
+        "origins": [],
+        "cost": 1
+    },
+    "Bounty Hunter": {
+        "classes": ["Scrappy", "Assassin"],
+        "origins": [],
+        "cost": 1
+    },
+    "Clockwerk": {
+        "classes": ["Scrappy", "Inventor"],
+        "origins": [],
+        "cost": 1
+    },
+    "Drow Ranger": {
+        "classes": ["Heartless", "Hunter"],
+        "origins": [],
+        "cost": 1
+    },
+    "Enchantress": {
+        "classes": ["Savage", "Druid"],
+        "origins": [],
+        "cost": 1
+    },
+    "Ogre Magi": {
+        "classes": ["Blood-Bound", "Mage"],
+        "origins": [],
+        "cost": 1
+    },
+    "Shadow Shaman": {
+        "classes": ["Troll", "Shaman"],
+        "origins": [],
+        "cost": 1
+    },
+    "Tinker": {
+        "classes": ["Scrappy", "Inventor"],
+        "origins": [],
+        "cost": 1
+    },
+    "Tiny": {
+        "classes": ["Primordial", "Warrior"],
+        "origins": [],
+        "cost": 1
+    },
+    "Tusk": {
+        "classes": ["Savage", "Warrior"],
+        "origins": [],
+        "cost": 1
+    },
+    "Warlock": {
+        "classes": ["Blood-Bound", "Warlock"],
+        "origins": [],
+        "cost": 1
+    }
+
+}

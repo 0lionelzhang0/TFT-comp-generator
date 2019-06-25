@@ -1,0 +1,99 @@
+{
+    "class": {
+        "Assassin": {
+            "breakpoint": [3, 6, 9],
+            "weight": 1.0
+        },
+        "Elusive": {
+            "breakpoint": [3, 6, 9],
+            "weight": 1.0
+        },
+        "Demon": {
+            "breakpoint": [1],
+            "weight": 1.0
+        },
+        "Demon Hunter": {
+            "breakpoint": [2],
+            "weight": 1.0
+        },
+        "Human": {
+            "breakpoint": [2, 4, 6],
+            "weight": 1.0
+        },
+        "Savage": {
+            "breakpoint": [2, 4, 6],
+            "weight": 1.0
+        },
+        "Scaled": {
+            "breakpoint": [2, 4],
+            "weight": 1.0
+        },
+        "Troll": {
+            "breakpoint": [2, 4],
+            "weight": 1.0
+        },
+        "Warlock": {
+            "breakpoint": [2, 4, 6],
+            "weight": 1.0
+        },
+        "Brawny": {
+            "breakpoint": [2, 4],
+            "weight": 1.0
+        },
+        "Deadeye": {
+            "breakpoint": [2],
+            "weight": 1.0
+        },
+        "Druid": {
+            "breakpoint": [2, 4],
+            "weight": 1.0
+        },
+        "Heartless": {
+            "breakpoint": [2, 4, 6],
+            "weight": 1.0
+        },
+        "Hunter": {
+            "breakpoint": [3, 6],
+            "weight": 1.0
+        },
+        "Knight": {
+            "breakpoint": [2, 4, 6],
+            "weight": 1.0
+        },
+        "Mage": {
+            "breakpoint": [3, 6],
+            "weight": 1.0
+        },
+        "Dragon": {
+            "breakpoint": [3],
+            "weight": 1.0
+        },
+        "Inventor": {
+            "breakpoint": [2, 4],
+            "weight": 1.0
+        },
+        "Primordial": {
+            "breakpoint": [2, 4],
+            "weight": 1.0
+        },
+        "Shaman": {
+            "breakpoint": [2],
+            "weight": 1.0
+        },
+        "Blood-Bound": {
+            "breakpoint": [2],
+            "weight": 1.0
+        },
+        "Warrior": {
+            "breakpoint": [3, 6, 9],
+            "weight": 1.0
+        },
+        "Scrappy": {
+            "breakpoint": [3, 6],
+            "weight": 1.0
+        }
+    },
+
+    "origin": {
+    }
+}

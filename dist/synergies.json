@@ -1,0 +1,99 @@
+{
+    "class": {
+        "Assassin": {
+            "breakpoint": [3, 6],
+            "weight": 1.0
+        },
+        "Blademaster": {
+            "breakpoint": [3, 6],
+            "weight": 1.0
+        },
+        "Brawler": {
+            "breakpoint": [2, 4],
+            "weight": 1.0
+        },
+        "Elementalist": {
+            "breakpoint": [3],
+            "weight": 1.0
+        },
+        "Guardian": {
+            "breakpoint": [2],
+            "weight": 1.0
+        },
+        "Gunslinger": {
+            "breakpoint": [2, 4],
+            "weight": 1.0
+        },
+        "Knight": {
+            "breakpoint": [2, 4, 6],
+            "weight": 1.0
+        },
+        "Ranger": {
+            "breakpoint": [2, 4],
+            "weight": 1.0
+        },
+        "Shapeshifter": {
+            "breakpoint": [3],
+            "weight": 1.0
+        },
+        "Sorcerer": {
+            "breakpoint": [3, 6],
+            "weight": 1.0
+        }
+    },
+
+    "origin": {
+        "Demon": {
+            "breakpoint": [2, 4, 6],
+            "weight": 1.0
+        },
+        "Dragon": {
+            "breakpoint": [2],
+            "weight": 1.0
+        },
+        "Exile": {
+            "breakpoint": [1],
+            "weight": 1.0
+        },
+        "Glacial": {
+            "breakpoint": [2, 4, 6],
+            "weight": 1.0
+        },
+        "Imperial": {
+            "breakpoint": [2, 4],
+            "weight": 1.0
+        },
+        "Noble": {
+            "breakpoint": [3, 6],
+            "weight": 1.0
+        },
+        "Ninja": {
+            "breakpoint": [1, 4],
+            "weight": 1.0
+        },
+        "Pirate": {
+            "breakpoint": [3],
+            "weight": 1.0
+        },
+        "Phantom": {
+            "breakpoint": [2],
+            "weight": 1.0
+        },
+        "Robot": {
+            "breakpoint": [1],
+            "weight": 1.0
+        },
+        "Void": {
+            "breakpoint": [3],
+            "weight": 1.0
+        },
+        "Wild": {
+            "breakpoint": [2, 4],
+            "weight": 1.0
+        },
+        "Yordle": {
+            "breakpoint": [3, 6],
+            "weight": 1.0
+        }
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "Aatrox": {
+        "classes": ["Blademaster"],
+        "origins": ["Demon"],
+        "cost": 2
+    },
+    "Ahri": {
+        "classes": ["Sorcerer"],
+        "origins": ["Wild"],
+        "cost": 2
+    },
+    "Akali": {
+        "classes": ["Assassin"],
+        "origins": ["Ninja"],
+        "cost": 4
+    },
+    "Anivia": {
+        "classes": ["Elementalist"],
+        "origins": ["Glacial"],
+        "cost": 5
+    },
+    "Ashe": {
+        "classes": ["Ranger"],
+        "origins": ["Glacial"],
+        "cost": 3
+    },
+    "Aurelion Sol": {
+        "classes": ["Sorcerer"],
+        "origins": ["Dragon"],
+        "cost": 4
+    },
+    "Blitzcrank": {
+        "classes": ["Brawler"],
+        "origins": ["Robot"],
+        "cost": 2
+    },
+    "Brand": {
+        "classes": ["Elementalist"],
+        "origins": ["Demon"],
+        "cost": 4
+    },
+    "Braum": {
+        "classes": ["Guardian"],
+        "origins": ["Glacial"],
+        "cost": 2
+    },
+    "Cho'gath": {
+        "classes": ["Brawler"],
+        "origins": ["Void"],
+        "cost": 4
+    },
+    "Darius": {
+        "classes": ["Knight"],
+        "origins": ["Imperial"],
+        "cost": 1
+    },
+    "Draven": {
+        "classes": ["Blademaster"],
+        "origins": ["Imperial"],
+        "cost": 4
+    },
+    "Elise": {
+        "classes": ["Shapeshifter"],
+        "origins": ["Demon"],
+        "cost": 2
+    },
+    "Evelyn": {
+        "classes": ["Assassin"],
+        "origins": ["Demon"],
+        "cost": 3
+    },
+    "Fiora": {
+        "classes": ["Blademaster"],
+        "origins": ["Noble"],
+        "cost": 1
+    },
+    "Gangplank": {
+        "classes": ["Gunslinger", "Blademaster"],
+        "origins": ["Pirate"],
+        "cost": 3
+    },
+    "Garen": {
+        "classes": ["Knight"],
+        "origins": ["Noble"],
+        "cost": 1
+    },
+    "Gnar": {
+        "classes": ["Shapeshifter"],
+        "origins": ["Wild", "Yordle"],
+        "cost": 4
+    },
+    "Graves": {
+        "classes": ["Gunslinger"],
+        "origins": ["Pirate"],
+        "cost": 1
+    },
+    "Karthus": {
+        "classes": ["Sorcerer"],
+        "origins": ["Phantom"],
+        "cost": 5
+    },
+    "Kassadin": {
+        "classes": ["Sorcerer"],
+        "origins": ["Void"],
+        "cost": 1
+    },
+    "Katarina": {
+        "classes": ["Assassin"],
+        "origins": ["Imperial"],
+        "cost": 3
+    },
+    "Kayle": {
+        "classes": ["Knight"],
+        "origins": ["Noble"],
+        "cost": 5
+    },
+    "Kennen": {
+        "classes": ["Elementalist"],
+        "origins": ["Ninja", "Yordle"],
+        "cost": 3
+    },
+    "Kha'Zix": {
+        "classes": ["Assassin"],
+        "origins": ["Void"],
+        "cost": 1
+    },
+    "Kindred": {
+        "classes": ["Ranger"],
+        "origins": ["Phantom"],
+        "cost": 4
+    },
+    "Leona": {
+        "classes": ["Guardian"],
+        "origins": ["Noble"],
+        "cost": 4
+    },
+    "Lissandra": {
+        "classes": ["Elementalist"],
+        "origins": ["Glacial"],
+        "cost": 1
+    },
+    "Lucian": {
+        "classes": ["Gunslinger"],
+        "origins": ["Noble"],
+        "cost": 2
+    },
+    "Lulu": {
+        "classes": ["Sorcerer"],
+        "origins": ["Yordle"],
+        "cost": 2
+    },
+    "Miss Fortune": {
+        "classes": ["Gunslinger"],
+        "origins": ["Pirate"],
+        "cost": 5
+    },
+    "Mordekaiser": {
+        "classes": ["Knight"],
+        "origins": ["Phantom"],
+        "cost": 1
+    },
+    "Morgana": {
+        "classes": ["Sorcerer"],
+        "origins": ["Demon"],
+        "cost": 3
+    },
+    "Nidalee": {
+        "classes": ["Shapeshifter"],
+        "origins": ["Wild"],
+        "cost": 1
+    },
+    "Poppy": {
+        "classes": ["Knight"],
+        "origins": ["Yordle"],
+        "cost": 3
+    },
+    "Pyke": {
+        "classes": ["Assassin"],
+        "origins": ["Pirate"],
+        "cost": 2
+    },
+    "Rek'Sai": {
+        "classes": ["Brawler"],
+        "origins": ["Void"],
+        "cost": 2
+    },
+    "Rengar": {
+        "classes": ["Assassin"],
+        "origins": ["Wild"],
+        "cost": 3
+    },
+    "Sejuani": {
+        "classes": ["Knight"],
+        "origins": ["Glacial"],
+        "cost": 4
+    },
+    "Shen": {
+        "classes": ["Blademaster"],
+        "origins": ["Ninja"],
+        "cost": 2
+    },
+    "Shyvana": {
+        "classes": ["Shapeshifter"],
+        "origins": ["Dragon"],
+        "cost": 3
+    },
+    "Swain": {
+        "classes": ["Shapeshifter"],
+        "origins": ["Imperial", "Demon"],
+        "cost": 5
+    },
+    "Tristana": {
+        "classes": ["Gunslinger"],
+        "origins": ["Yordle"],
+        "cost": 1
+    },
+    "Varus": {
+        "classes": ["Ranger"],
+        "origins": ["Demon"],
+        "cost": 2
+    },
+    "Vayne": {
+        "classes": ["Ranger"],
+        "origins": ["Noble"],
+        "cost": 1
+    },
+    "Veigar": {
+        "classes": ["Sorcerer"],
+        "origins": ["Yordle"],
+        "cost": 3
+    },
+    "Volibear": {
+        "classes": ["Brawler"],
+        "origins": ["Glacial"],
+        "cost": 2
+    },
+    "Warwick": {
+        "classes": ["Brawler"],
+        "origins": ["Wild"],
+        "cost": 1
+    },
+    "Yasuo": {
+        "classes": ["Blademaster"],
+        "origins": ["Exile"],
+        "cost": 5
+    },
+    "Zed": {
+        "classes": ["Assassin"],
+        "origins": ["Ninja"],
+        "cost": 2
+    }
+}
