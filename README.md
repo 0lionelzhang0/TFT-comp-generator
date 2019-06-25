@@ -1,5 +1,7 @@
 # TFT-comp-generator
 
+![alt text](https://imgur.com/a/YyLB8d6)
+
 ## How to use
 
 You can either run the pygui.py script or if you don't have Python installed you can run the pygui.exe under the dist folder. The two json files in the dist folder need to be in the same folder as the executable for it to work.
