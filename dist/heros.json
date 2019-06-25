@@ -232,7 +232,7 @@
     "Volibear": {
         "classes": ["Brawler"],
         "origins": ["Glacial"],
-        "cost": 2
+        "cost": 3
     },
     "Warwick": {
         "classes": ["Brawler"],
