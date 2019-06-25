@@ -1,6 +1,6 @@
 # TFT-comp-generator
 
-![alt text](https://imgur.com/a/YyLB8d6)
+![screenshot](https://i.imgur.com/HVQXqsB.png)
 
 ## How to use
 
