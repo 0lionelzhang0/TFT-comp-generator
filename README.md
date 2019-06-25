@@ -12,3 +12,5 @@ Calculations may take a long time if the total number of units is set greater th
 
 If you want to select multiple starting units, it is best to select units that have at least one synergy link for best results.
 
+The results that it produce show unit cost, team synergies, and total synergy score.
+
